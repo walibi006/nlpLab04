@@ -14,4 +14,5 @@ Our implementiation consists of two files, `GloVe.ipynb` and `FastText.ipynb`. T
 It uses the following libraries:
   - `datasets` for the dataset
   - `PyTorch` for the training and testing of a classifier in the GloVe part
+  - `TorchText` for the vocabulary and GloVe implementation
   - `FastText` for the training and testing of a classifier in the FastText part
